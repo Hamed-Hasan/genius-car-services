@@ -1,0 +1,19 @@
+.active{color: goldenrod}
+.inactive{color:black}
+nav a{
+    text-decoration: none;
+    margin: 0 20px;
+    color: white !important;
+}
+.carousel-indicators [data-bs-target] {
+    width: 10px !important;
+    height: 10px    !important;
+    border-radius: 50%  !important;
+
+}
+.carousel-indicators .active {
+    border: 1px solid orange !important;
+}
+.black{background:black}
+.grey{background:rgba(128, 128, 128, 0.687)}
+
